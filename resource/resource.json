@@ -1,0 +1,16 @@
+{
+"resources":
+	[
+	{"name":"bgImage","type":"image","url":"assets/bg.jpg"},
+        
+    {"name":"sheet","type":"sheet","url":"assets/imgs.json"},
+    {"name":"time_bar","type":"image","url":"assets/time_bar.png"},
+    {"name":"share","type":"image","url":"assets/share.png"}
+	],
+
+"groups":
+	[
+        {"name":"bg","keys":"bgImage"},
+        {"name":"game","keys":"sheet,time_bar,share"}
+	]
+}
