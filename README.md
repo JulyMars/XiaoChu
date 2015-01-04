@@ -2,4 +2,4 @@ XiaoChu
 =======
 
 xiaochu
-http://julymars.github.io/XiaoChu/
+[Play it here!](http://julymars.github.io/XiaoChu/)
